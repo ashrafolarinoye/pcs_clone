@@ -2278,7 +2278,7 @@
                     function (e) {
                         e.isDark;
                         var n = x(e, ["isDark"]);
-                        return a.a.createElement("img", y({ src: "/burnt.png" }, n));
+                        return a.a.createElement("img", y({ src: "/ryderemovebg.png" }, n));
                     },
                     function (e, n) {
                         return e.isDark === n.isDark;
